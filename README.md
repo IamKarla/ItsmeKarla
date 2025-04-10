@@ -70,8 +70,12 @@ My personal website
     </header>
 
     <div class="about-container">
-        <h2>Karla Joy Mahusay</h2>
-        <p class="intro">Hi! I'm Karla, a hardworking and dedicated individual with a passion for continuous learning and adapting to change. I thrive in dynamic environments where I can expand my skills and take on new challenges.</p>
+        <h2>Karla Joy C. Mahusay</h2>
+        <p class="intro">Hi! I'm Karla, I am a graduate with a Bachelor of Science in Agribusiness, eager to start my career in an office staff position. While I do not have direct experience in this role, I am a fast learner and highly adaptable, with a strong willingness to undergo training and further develop my skills.
+
+I have a solid foundation in technology, particularly in Microsoft Office Suite (Word, Excel, PowerPoint), which I use regularly for organizing data, creating reports, and managing tasks. My ability to quickly learn new tools and software will help me excel in an office environment. I am detail-oriented, reliable, and enjoy working in a team setting to achieve common goals.
+
+I am excited about the opportunity to contribute to your team, bring my strong work ethic, and grow professionally in this role. </p>
 
         <div class="details">
             <p><span>Full Name:</span> Karla Joy Mahusay</p>
