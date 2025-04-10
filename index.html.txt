@@ -1,103 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Karla Joy Mahusay</title>
-  <style>
-    body {
-      font-family: 'Helvetica Neue', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    header {
-      padding: 2rem;
-      text-align: center;
-      background: white;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    header p {
-      margin-top: 0.5rem;
-      color: #666;
-      font-size: 1.2rem;
-    }
-    nav {
-      text-align: center;
-      padding: 1rem;
-    }
-    nav a {
-      margin: 0 1rem;
-      text-decoration: none;
-      color: #444;
-      font-weight: bold;
-    }
-    nav a:hover {
-      color: #000;
-    }
-    section {
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-    h2 {
-      border-bottom: 2px solid #eee;
-      padding-bottom: 0.5rem;
-    }
-    footer {
-      text-align: center;
-      padding: 2rem;
-      font-size: 0.9rem;
-      color: #aaa;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Karla Joy Mahusay</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2b2d42;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .about-container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #2b2d42;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .intro {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .details {
+            font-size: 1em;
+            line-height: 1.6;
+            color: #666;
+        }
+
+        .details span {
+            font-weight: bold;
+        }
+
+        footer {
+            background-color: #2b2d42;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>Karla Joy Mahusay</h1>
-    <p>a curious mind with a creative heart, building stories through code, design, and words.</p>
-  </header>
+    <header>
+        <h1>About Me</h1>
+    </header>
 
-  <nav>
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#portfolio">Portfolio</a>
-    <a href="#blog">Blog</a>
-    <a href="#contact">Contact</a>
-  </nav>
+    <div class="about-container">
+        <h2>Karla Joy Mahusay</h2>
+        <p class="intro">Hi, I'm Karla, an Aries born on April 15, 1995. I'm passionate about technology, creativity, and everything in between.</p>
 
-  <section id="home">
-    <h2>Welcome</h2>
-    <p>Thanks for visiting! This is my space to share what I create, explore, and care about. Dive in and get to know me more.</p>
-  </section>
+        <div class="details">
+            <p><span>Full Name:</span> Karla Joy Mahusay</p>
+            <p><span>Birth Date:</span> April 15, 1995</p>
+            <p><span>Astrological Sign:</span> Aries</p>
+            <p>I'm always eager to learn new things and take on challenges that push me to grow. Whether it's exploring the world of web development, designing creative solutions, or learning about new trends in tech, I'm always excited about what's next.</p>
+        </div>
+    </div>
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>I'm Karla, a lifelong learner and storyteller. Whether it's through writing, design, or tech—I love turning ideas into something real. Currently exploring [insert current project or interest here].</p>
-  </section>
-
-  <section id="portfolio">
-    <h2>Portfolio</h2>
-    <p>Coming soon: a showcase of my favorite projects—from web design to creative writing.</p>
-  </section>
-
-  <section id="blog">
-    <h2>Blog</h2>
-    <p>Sharing thoughts, lessons, and little joys. Stay tuned for upcoming posts!</p>
-  </section>
-
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>You can reach me via email at <strong>karla@example.com</strong> or follow me on social media (links coming soon!).</p>
-  </section>
-
-  <footer>
-    © 2025 Karla Joy Mahusay. All rights reserved.
-  </footer>
+    <footer>
+        <p>&copy; 2025 Karla Joy Mahusay</p>
+    </footer>
 </body>
 </html>
