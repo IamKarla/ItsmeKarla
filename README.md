@@ -71,7 +71,7 @@ My personal website
 
     <div class="about-container">
         <h2>Karla Joy C. Mahusay</h2>
-        <p class="intro">Hi! I'm Karla, I am a graduate with a Bachelor of Science in Agribusiness, eager to start my career in an office staff position. While I do not have direct experience in this role, I am a fast learner and highly adaptable, with a strong willingness to undergo training and further develop my skills.
+        <p class="intro">Hi! I'm Karla, I am a graduate of Bachelor of Science in Agribusiness, eager to start my career in an office staff position. While I do not have direct experience in this role, I am a fast learner and highly adaptable, with a strong willingness to undergo training and further develop my skills.
 
 I have a solid foundation in technology, particularly in Microsoft Office Suite (Word, Excel, PowerPoint), which I use regularly for organizing data, creating reports, and managing tasks. My ability to quickly learn new tools and software will help me excel in an office environment. I am detail-oriented, reliable, and enjoy working in a team setting to achieve common goals.
 
